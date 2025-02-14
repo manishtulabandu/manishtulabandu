@@ -32,19 +32,19 @@ Hi there! I'm **Mani Shankar**, a **Master’s student in Computer and Informati
 ---
 
 ## 🚀 **Projects**
-📌 **[Hybrid Driver Drowsiness Detection](https://github.com/manishtulabandu/Hybrid-Drowsiness-Detection)**  
+📌 **[Hybrid Driver Drowsiness Detection](https://github.com/manishtulabandu/)**  
 🔹 Built using **Python, OpenCV, and AI models** (ResNet50, EAR detection)  
 🔹 Achieved **90% accuracy** in real-time detection  
 
-📌 **[Customer Sales Forecasting Dashboard](https://github.com/manishtulabandu/Sales-Forecasting-Dashboard)**  
+📌 **[Customer Sales Forecasting Dashboard](https://github.com/manishtulabandu/)**  
 🔹 **Data Visualization with Power BI & Python**  
 🔹 Improved forecast accuracy by **20%**  
 
-📌 **[E-Voting System](https://github.com/manishtulabandu/E-Voting-System)**  
+📌 **[E-Voting System](https://github.com/manishtulabandu/)**  
 🔹 **Secure authentication (JWT, OAuth)**  
 🔹 Built using **Spring Boot, SQL, and REST APIs**  
 
-📌 **[Dog Store E-Commerce Website](https://github.com/manishtulabandu/Dog-Store)**  
+📌 **[Dog Store E-Commerce Website](https://github.com/manishtulabandu/)**  
 🔹 **MERN Stack project** with an optimized UI/UX  
 🔹 Improved cart conversion by **12%**  
 
